@@ -1,8 +1,8 @@
 👋 Hi, I’m @Raegan95
 
-👀 I’m interested in Software Development, Data Analytics
+👀 I’m interested in Web Development
 
-🌱 I’m currently learning React, Python
+🌱 I’m currently attending VSchool
 
 💞️ I’m looking to collaborate on anything! I love to learn and you learn by doing!
 
